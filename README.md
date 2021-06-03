@@ -1,2 +1,3 @@
 # Proyectoderedes
-Es para un proyecto de redes.
+Programas para universitarios,
+Este trabajo esta diseñado para los estudiantes de universidad https://sites.google.com/view/cursoseideas/p
